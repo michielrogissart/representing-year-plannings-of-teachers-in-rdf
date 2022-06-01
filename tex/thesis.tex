@@ -285,7 +285,8 @@
     An example of a requirement story is ``A teacher would like to keep track of which goals are covered in which lessons.'' \\
     Out of these requirement stories, \textit{competency questions} and \textit{contextual statements} are ditsilled. Competency questions are questions one might ask about the data. An example of such a competency question could be: ``How many lessons did I spend on goal x?".\\
     Contextual statements are facts about the represented concepts as stated by the domain experts. An example is `` A lesson covers 0 or more competencies''.\\
-    The competency questions and contextual statements for this research can also be found in the repository \cite{repo}. \\ \\
+    The competency questions and contextual statements for this research can also be found in the repository \cite{repo}.
+    The ones concerning didactical methods and taxonomies can be found in appendix \ref{chap:appendix-cq} \\ \\
     The following section describes the interviews in more detail, along with the conclusions drawn from them.
 
     \section{Interviews}
@@ -717,7 +718,8 @@
     \chapter{Data}
     \label{section:data}
     To prove that this is a functional model, and to test the SPARQL queries, a number of data files were created. This was made available as Turtle-files in the GitHub repository \cite{repo}.\\
-    Data was generated for all concepts that are being modelled. It consists of randomly generated data and `real' data. This is data that came from real life and realistic sources.
+    Data was generated for all concepts that are being modelled. It consists of randomly generated data and `real' data. This is data that came from real life and realistic sources.\\ \\
+    The data describing the newly introduced classes and properties, can be found in appendix \ref{chap:appendix-myont}.
     In the coming sections, the created data is discussed. It is split up into parts similar to section \ref{section:datamodelling}.
 
     \section{Competencies, credentials, educational levels and domains}
@@ -784,6 +786,7 @@
     It shows how Python can be used to generate all dates and hours on which classes occur, given the data about the schedule as discussed in section \ref{subsubsection:subject}.\\ \\
     The official holidays in Flemish education are incorporated, but not the vacations.\\
     The resulting turtle files are found in the folder \emph{rdf-data/generated-data} and are called \emph{generated-courses.ttl, generated-subjects.ttl, generated-classes.ttl and generated-schedules.ttl}.
+    Excerpts of the generated lessons and phases can be found respectively in appendix \ref{chap:appendix-lesson} and appendix \ref{chap:appendix-phase}.
 
     \subsection{Course material, exercises, didactical methods and taxonomies}
     To test the part of the model concerning course material and exercises (section \ref{subsection:coursematerial}), data was created based on materials that are used in a Flemish school.\\
