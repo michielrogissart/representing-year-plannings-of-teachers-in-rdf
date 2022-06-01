@@ -1680,9 +1680,13 @@ INPUT .\summary-nl.tex
 INPUT summary-nl.tex
 INPUT .\summary-nl.tex
 INPUT summary-nl.tex
+INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fver8t.tfm
+INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fveb8t.tfm
+INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\vf\public\bera\fveb8t.vf
+INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fveb8r.tfm
+INPUT C:\Users\Michiel\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\vf\public\bera\fver8t.vf
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fver8r.tfm
-INPUT C:\Users\Michiel\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\summary-en.tex
 INPUT .\summary-en.tex
 INPUT .\summary-en.tex
@@ -1908,8 +1912,6 @@ INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\vf\public\bera\fver8t
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fver8r.tfm
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\vf\public\bera\fveb8t.vf
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fveb8r.tfm
-INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fver8t.tfm
-INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fveb8t.tfm
 INPUT .\thesis.toc
 INPUT thesis.toc
 INPUT thesis.toc
@@ -1940,8 +1942,6 @@ INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\vf\public\bera\fveb8t.vf
-INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fveb8r.tfm
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\vf\public\bera\fveb8t.vf
 INPUT C:\Users\Michiel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\bera\fveb8r.tfm
 OUTPUT thesis.toc
