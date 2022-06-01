@@ -1,0 +1,24 @@
+PREFIX edulevel: <http://ilearn.ilabt.imec.be/vocab/ondniv/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX schema: <https://schema.org/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX comp: <http://ilearn.ilabt.imec.be/vocab/onddoel/>
+
+CONSTRUCT {
+    ?cred rdf:type schema:EducationalOccupationalCredential .
+    ?cred schema:name ?name .
+    ?cred schema:typicalAgeRange ?range .
+    ?cred schema:credentialCategory ?cat .
+    ?cred schema:educationalLevel ?niv .
+    ?cred schema:competencyRequired ?doel.
+}
+
+WHERE {
+    ?cred rdf:type schema:EducationalOccupationalCredential .
+    ?cred schema:name ?name .
+    ?cred schema:typicalAgeRange ?range .
+    ?cred schema:credentialCategory ?cat .
+    ?cred schema:educationalLevel ?niv .
+    ?doel skos:inScheme comp:_scheme .
+    ?doel skos:related ?niv .
+}

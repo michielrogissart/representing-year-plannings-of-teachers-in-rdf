@@ -1,0 +1,55 @@
+@prefix myont: <http://myontology.com/myont/> .
+@prefix schema: <https://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix edutaxonomies: <http://myontology.com/taxonomieen/> .
+
+edutaxonomies:set rdf:type schema:DefinedTermSet;
+    schema:name "Educatieve taxonomiëen"@nl, "Educational taxonomies"@en .
+
+edutaxonomies:revisedBloom rdf:type schema:CatergoryCodeSet;
+    schema:isPartOf edutaxonomies:set;
+    schema:name "Herziene taxonomie van Bloom"@nl, "Revised taxonomy of Bloom"@nl;
+    schema:alternateName "Taxonomie van Bloom herzien"@nl, "Revised Blooms taxonomy"@en.
+
+edutaxonomies:revisedBloom-remember rdf:type schema:CategoryCode;
+    schema:codeValue "1. Onthouden"@nl, "1. Remember"@en;
+    schema:name "Herziene Taxonomie van Bloom Niveau 1: Onthouden"@nl, "Revised taxonomy of Bloom Level 1: Remember"@en;
+    schema:description "Informatie herinneren, herkennen, beschrijven, benoemen"@nl,
+                        "Recall facts and basic concepts. Define, duplicate, list memorize, repeat, state"@en;
+    schema:inCodeSet edutaxonomies:revisedBloom .
+
+edutaxonomies:revisedBloom-understand rdf:type schema:CategoryCode;
+    schema:codeValue "2. Begrijpen"@nl, "2. Understand"@en;
+    schema:name "Herziene Taxonomie van Bloom Niveau 2: Begrijpen"@nl, "Revised taxonomy of Bloom Level 2: Understand"@en;
+    schema:description "Ideëen of concepten uitleggen, interpreteren, samenvatten, hernoemen, classificeren, uitleggen"@nl,
+                        "Explain ideas or concepts. Classify, describe, discuss, explain, identify, locate, recognize, report, select, translate"@en;
+    schema:inCodeSet edutaxonomies:revisedBloom .
+
+edutaxonomies:revisedBloom-apply rdf:type schema:CategoryCode;
+    schema:codeValue "3. Toepassen"@nl, "3. Apply"@en;
+    schema:name "Herziene Taxonomie van Bloom Niveau 3: Toepassen"@nl, "Revised taxonomy of Bloom Level 3: Apply"@en;
+    schema:description "Informatie in een andere context gebruiken. Bewerkstelligen, uitvoeren, gebruiken toepassen."@nl,
+                        "Use information in new situations. Execute, implement, solve, use, demonstrate, interpet, operate, schedule, sketch"@en;
+    schema:inCodeSet edutaxonomies:revisedBloom .
+
+edutaxonomies:revisedBloom-analyze rdf:type schema:CategoryCode;
+    schema:codeValue "4. Analyseren"@nl, "4. Analyze"@en;
+    schema:name "Herziene Taxonomie van Bloom Niveau 4: Analyseren"@nl, "Revised taxonomy of Bloom Level 4: Analyze"@en;
+    schema:description "Informatie in stukken opdelen om de verbanden en relaties te onderzoeken. Vergelijken, organiseren, uit elkaar halen, ondervragen, vinden."@nl,
+                        "Draw connections among ideas. Differentiate, organize, relate, compare, contrast, distinguish, examine, experiment, question, test."@en;
+    schema:inCodeSet edutaxonomies:revisedBloom .
+
+edutaxonomies:revisedBloom-evaluate rdf:type schema:CategoryCode;
+    schema:codeValue "5. Evalueren"@nl, "5. Evaluate"@en;
+    schema:name "Herziene Taxonomie van Bloom Niveau 5: Evalueren"@nl, "Revised taxonomy of Bloom Level 5: Evaluate"@en;
+    schema:description "Motiveren of rechtvaardigen van een besluit of gebeurtenis. Controleren, hypothiseren, bekritiseren, experimenteren, beoordelen"@nl,
+                        "Justify a stand or decision. Appraise, argue, defend, judge, select, support, value, critique, weigh."@en;
+    schema:inCodeSet edutaxonomies:revisedBloom .
+
+edutaxonomies:revisedBloom-create rdf:type schema:CategoryCode;
+    schema:codeValue "6. Creëren"@nl, "6. Create"@en;
+    schema:name "Herziene Taxonomie van Bloom Niveau 6: Creëren"@nl, "Revised taxonomy of Bloom Level 6: Create"@en;
+    schema:description "Nieuwe ideeën, producten of gezichtspunten genereren. Ontwerpen, maken, plannen, produceren, uitvinden, bouwen."@nl,
+                        "Produce new or original work. Design, assemble, construct, donjecture, develop, formulate, author, investigate"@en;
+    schema:inCodeSet edutaxonomies:revisedBloom .
+    

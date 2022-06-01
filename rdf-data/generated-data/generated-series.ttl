@@ -1,0 +1,30 @@
+@prefix myont: <http://myontology.com/myont/> .
+@prefix schema: <https://schema.org/> .
+@prefix series: <http://myontology.com/lesseries/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yearplan: <http://myontology.com/jaarplannen/> .
+
+series:Test-year-plan-series1 a myont:LessonSeries ;
+    schema:isPartOf yearplan:Test-year-plan ;
+    schema:position 1 .
+
+series:Test-year-plan-series2 a myont:LessonSeries ;
+    schema:isPartOf yearplan:Test-year-plan ;
+    schema:position 2 .
+
+series:Test-year-plan-series3 a myont:LessonSeries ;
+    schema:isPartOf yearplan:Test-year-plan ;
+    schema:position 3 .
+
+series:Test-year-plan-series4 a myont:LessonSeries ;
+    schema:isPartOf yearplan:Test-year-plan ;
+    schema:position 4 .
+
+series:Test-year-plan-series5 a myont:LessonSeries ;
+    schema:isPartOf yearplan:Test-year-plan ;
+    schema:position 5 .
+
+series:Test-year-plan-series6 a myont:LessonSeries ;
+    schema:isPartOf yearplan:Test-year-plan ;
+    schema:position 6 .
+

@@ -1,0 +1,12 @@
+@prefix myont: <http://myontology.com/myont/> .
+@prefix lesson: <http://myontology.com/lessen/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <https://schema.org/> .
+@prefix documents: <http://myontology.com/documenten> .
+
+lesson:les1 rdf:type myont:Lesson;
+      schema:url lesson:les1;
+      schema:name "Introductie vectoren in de ruimte";
+      schema:position 1; 
+      myont:describedBy documents:doc-les1;
+      schema:isPartOf lessonseries:series1.

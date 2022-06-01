@@ -1,0 +1,39 @@
+{
+    "1": {
+        "name": "1. Kansrekenen",
+        "pages": "3-7",
+        "excerpts": {
+            "1": {
+                "name": "Oefeningen hoofdstuk 1",
+                "pages": "5-5",
+                "exercises": "1-8" 
+            }
+        }
+    },
+    "2": {
+        "name": "1. Kansverdelingen",
+        "pages": "8-16",
+        "excerpts": {
+            "1": {
+                "name": "Oefeningen hoofdstuk 2",
+                "pages": "16-16",
+                "exercises": "1-8" 
+            }
+        }
+    },
+    "3": {
+        "name": "3. Uitspraken op basis van gegevens",
+        "pages": "17-20",
+        "excerpts": {}
+    }, 
+    "4": {
+        "name": "4. Steekproefverdelingen",
+        "pages": "21-22",
+        "excerpts": {}
+    },
+    "5": {
+        "name": "5. Uitspraken op basis van steekproefverdelingen",
+        "pages": "23-24",
+        "excerpts": {}
+    }
+}

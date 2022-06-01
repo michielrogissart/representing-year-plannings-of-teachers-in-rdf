@@ -1,0 +1,14 @@
+PREFIX schema: <https://schema.org/>
+PREFIX myont: <http://myontology.com/myont/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX yearplan: <http://myontology.com/jaarplannen/>
+
+SELECT ?lesson ?lessonIndex ?seriesIndex WHERE {
+    ?lessonSeries schema:isPartOf yearplan:Test-year-plan .
+    ?lessonSeries rdf:type myont:LessonSeries .
+    ?lesson schema:isPartOf ?lessonSeries .
+    ?lesson rdf:type myont:Lesson .
+    ?lesson schema:position ?lessonIndex .
+    ?lessonSeries schema:position ?seriesIndex .
+}
+ORDER BY ?seriesIndex ?lessonIndex

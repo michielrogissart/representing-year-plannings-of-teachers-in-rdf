@@ -1,0 +1,25 @@
+@prefix schema: <https://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix eduse: <http://myontology.com/gebruiken/> .
+
+eduse:set rdf:type schema:DefinedTermSet .
+
+eduse:introduce rdf:type schema:DefinedTerm;
+    schema:name "Introduceren"@nl;
+    schema:inDefinedTermSet eduse:set .
+
+eduse:rehearse rdf:type schema:DefinedTerm;
+    schema:name "Herhalen"@nl;
+    schema:inDefinedTermSet eduse:set .
+
+eduse:exercise rdf:type schema:DefinedTerm;
+    schema:name "Inoefenen"@nl;
+    schema:inDefinedTermSet eduse:set .
+
+eduse:remediate rdf:type schema:DefinedTerm;
+    schema:name "Remediëren"@nl;
+    schema:inDefinedTermSet eduse:set .
+
+eduse:test rdf:type schema:DefinedTerm;
+    schema:name "Testen"@nl;
+    schema:inDefinedTermSet eduse:set .

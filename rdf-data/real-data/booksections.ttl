@@ -1,0 +1,21 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix myont: <http://myontology.com/myont/> .
+@prefix coursematerial: <http://myontology.com/cursusmateriaal/> .
+@prefix section: <http://myontology.com/secties/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+section:teacher-material-stochastiek-section1 rdf:type bibo:BookSection, schema:LearningResource;
+    schema:name "Deel 1: Kansrekenen"@nl;
+    bibo:pageStart 3;
+    bibo:pageEnd 16;
+    bibo:section 1;
+    dcterms:isPartOf coursematerial:n-delerue-stochastiek-6tw .
+
+section:teacher-material-stochastiek-section2 rdf:type bibo:BookSection, schema:LearningResource;
+    schema:name "Deel 2: Statistiek"@nl;
+    bibo:pageStart 17;
+    bibo:pageEnd 24;
+    bibo:section 2;
+    dcterms:isPartOf coursematerial:n-delerue-stochastiek-6tw .

@@ -1,0 +1,332 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix comp: <http://ilearn.ilabt.imec.be/vocab/onddoel/> .
+@prefix coursematerial: <http://myontology.com/cursusmateriaal/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix excerpt: <http://myontology.com/uittreksels/> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt1 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 11 ;
+    bibo:pageStart 8 ;
+    schema:name "1.1 Gevallen combineren: product- en somregel"@nl ;
+    schema:teaches comp:sec-6.10-2152058399,
+        comp:sec-6.23-1379620542,
+        comp:sec-6.33-2931451469 .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt10 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 34 ;
+    bibo:pageStart 31 ;
+    schema:name "Oefeningen hoofdstuk 1 reeks 1"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt11 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 37 ;
+    bibo:pageStart 34 ;
+    schema:name "Oefeningen hoofdstuk 1 reeks 2"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt12 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 39 ;
+    bibo:pageStart 38 ;
+    schema:name "Oefeningen hoofdstuk 1 reeks 3"@nl ;
+    schema:teaches comp:sec-6.10-2152058399,
+        comp:sec-6.20-1086234763 .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt13 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 41 ;
+    bibo:pageStart 40 ;
+    schema:name "Herhalingsoefeningen hoofdstuk 1"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt2 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 13 ;
+    bibo:pageStart 11 ;
+    schema:name "1.2 Geordende keuze met herhaling"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt3 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 16 ;
+    bibo:pageStart 14 ;
+    schema:name "1.3 Geordende keuzes"@nl ;
+    schema:teaches comp:sec-6.13-1308011873,
+        comp:sec-6.22-2145158075,
+        comp:sec-6.43-3521371261 .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt4 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 19 ;
+    bibo:pageStart 16 ;
+    schema:name "1.4 Geordende keuze van alle elementen"@nl ;
+    schema:teaches comp:sec-6.20-1086234763,
+        comp:sec-6.25-375233548,
+        comp:sec-6.3-2761610698 .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt5 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 21 ;
+    bibo:pageStart 19 ;
+    schema:name "1.5 Ongeordende keuzes"@nl ;
+    schema:teaches comp:sec-6.12-2187583694,
+        comp:sec-6.31-4159341895 .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt6 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 25 ;
+    bibo:pageStart 22 ;
+    schema:name "1.6 Wegen tellen"@nl ;
+    schema:teaches comp:sec-6.2-2258842063,
+        comp:sec-6.21-1535442684,
+        comp:sec-6.37-3988384702 .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt8 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 28 ;
+    bibo:pageStart 27 ;
+    schema:name "1.8 Ongeordende keuzes met herhaling"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter1-excerpt9 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 30 ;
+    bibo:pageStart 29 ;
+    schema:name "1.9 Geordende keuze van alle elementen met herhaling"@nl ;
+    schema:teaches comp:sec-6.16-893310338,
+        comp:sec-6.20-1086234763,
+        comp:sec-6.39-1461280977,
+        comp:sec-6.8-3994353856,
+        comp:sec-6.9-2736311339 .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt1 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 48 ;
+    bibo:pageStart 44 ;
+    schema:name "2.1 Pascals driehoek"@nl ;
+    schema:teaches comp:sec-6.22-2145158075,
+        comp:sec-6.27-3960050681 .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt2 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 52 ;
+    bibo:pageStart 49 ;
+    schema:name "2.2 Newtons binomium"@nl ;
+    schema:teaches comp:sec-6.24-3313539547,
+        comp:sec-6.37-3988384702,
+        comp:sec-6.40-898439111 .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt3 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 53 ;
+    bibo:pageStart 52 ;
+    schema:name "2.3 Deelverzamelingen van een verzameling tellen"@nl ;
+    schema:teaches comp:sec-6.15-2875060543,
+        comp:sec-6.35-1408833452,
+        comp:sec-6.40-898439111,
+        comp:sec-6.43-3521371261 .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt4 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 55 ;
+    bibo:pageStart 54 ;
+    schema:name "Oefeningen hoofdstuk 2 reeks 1"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt5 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 57 ;
+    bibo:pageStart 55 ;
+    schema:name "Oefeningen hoofdstuk 2 reeks 2"@nl ;
+    schema:teaches comp:sec-6.11-696981899,
+        comp:sec-6.29-2961450352,
+        comp:sec-6.3-2761610698,
+        comp:sec-6.4-4053933275,
+        comp:sec-6.41-1027412927 .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt6 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 57 ;
+    bibo:pageStart 57 ;
+    schema:name "Oefeningen hoofdstuk 2 reeks 3"@nl ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+excerpt:publisher-material-kansrekenen-chapter2-excerpt7 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 58 ;
+    bibo:pageStart 58 ;
+    schema:name "Herhalingsoefeningen hoofdstuk 2"@nl ;
+    schema:teaches comp:sec-6.11-696981899,
+        comp:sec-6.5-2444922719 .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt1 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 68 ;
+    bibo:pageStart 62 ;
+    schema:name "3.1 Begrippen"@nl ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt2 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 71 ;
+    bibo:pageStart 69 ;
+    schema:name "3.2 Kansen theoretisch bepalen"@nl .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt3 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 84 ;
+    bibo:pageStart 72 ;
+    schema:name "3.3 Afhankelijkheid van gebeurtenissen"@nl ;
+    schema:teaches comp:sec-6.10-2152058399,
+        comp:sec-6.5-2444922719 .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt4 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 85 ;
+    bibo:pageStart 85 ;
+    schema:name "Oefeningen hoofdstuk 3 reeks 1"@nl ;
+    schema:teaches comp:sec-6.13-1308011873,
+        comp:sec-6.17-1134487788,
+        comp:sec-6.25-375233548,
+        comp:sec-6.37-3988384702 .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt5 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 91 ;
+    bibo:pageStart 85 ;
+    schema:name "Oefeningen hoofdstuk 3 reeks 2"@nl ;
+    schema:teaches comp:sec-6.18-3357967122,
+        comp:sec-6.42-2248191429 .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt6 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 99 ;
+    bibo:pageStart 91 ;
+    schema:name "Oefeningen hoofdstuk 3 reeks 3"@nl ;
+    schema:teaches comp:sec-6.21-1535442684 .
+
+excerpt:publisher-material-kansrekenen-chapter3-excerpt7 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 103 ;
+    bibo:pageStart 100 ;
+    schema:name "Herhalingsoefeningen hoofdstuk 3"@nl ;
+    schema:teaches comp:sec-6.40-898439111,
+        comp:sec-6.42-2248191429 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt1 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 111 ;
+    bibo:pageStart 106 ;
+    schema:name "4.1 Stochasten en verdelingen van kansen"@nl ;
+    schema:teaches comp:sec-6.24-3313539547,
+        comp:sec-6.33-2931451469 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt10 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 147 ;
+    bibo:pageStart 145 ;
+    schema:name "Oefeningen hoofdstuk 4 reeks 3"@nl ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt12 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 149 ;
+    bibo:pageStart 148 ;
+    schema:name "Herhalingsoefeningen hoofdstuk 4"@nl ;
+    schema:teaches comp:sec-6.22-2145158075,
+        comp:sec-6.26-3095091543,
+        comp:sec-6.34-1866874566 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt2 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 118 ;
+    bibo:pageStart 112 ;
+    schema:name "4.2 Standaardafwijking en verwachtingswaarde"@nl ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt3 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 129 ;
+    bibo:pageStart 119 ;
+    schema:name "4.3 Discrete verdelingen"@nl ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt4 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 136 ;
+    bibo:pageStart 130 ;
+    schema:name "4.4 Continue verdelingen"@nl ;
+    schema:teaches comp:sec-6.1-2672577291,
+        comp:sec-6.14-2400798259,
+        comp:sec-6.36-1741261119 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt5 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 138 ;
+    bibo:pageStart 137 ;
+    schema:name "Oefeningen hoofdstuk 4 reeks 1"@nl ;
+    schema:teaches comp:sec-6.12-2187583694,
+        comp:sec-6.20-1086234763 .
+
+excerpt:publisher-material-kansrekenen-chapter4-excerpt7 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:pageEnd 145 ;
+    bibo:pageStart 139 ;
+    schema:name "Oefeningen hoofdstuk 4 reeks 2"@nl ;
+    schema:teaches comp:sec-6.15-2875060543,
+        comp:sec-6.43-3521371261 .
+
+excerpt:teacher-material-stochastiek-chapter1-excerpt1 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:pageEnd 5 ;
+    bibo:pageStart 5 ;
+    schema:name "Oefeningen hoofdstuk 1"@nl ;
+    schema:teaches comp:sec-6.11-696981899,
+        comp:sec-6.13-1308011873,
+        comp:sec-6.25-375233548,
+        comp:sec-6.26-3095091543,
+        comp:sec-6.5-2444922719 .
+
+excerpt:teacher-material-stochastiek-chapter2-excerpt1 a bibo:Excerpt,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:pageEnd 16 ;
+    bibo:pageStart 16 ;
+    schema:name "Oefeningen hoofdstuk 2"@nl ;
+    schema:teaches comp:sec-6.31-4159341895,
+        comp:sec-6.43-3521371261 .
+

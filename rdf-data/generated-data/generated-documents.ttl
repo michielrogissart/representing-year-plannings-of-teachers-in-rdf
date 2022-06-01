@@ -1,0 +1,1584 @@
+@prefix document: <http://myontology.com/documenten/> .
+@prefix schema: <https://schema.org/> .
+
+document:doc-Test-year-plan-series1-lesson1-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson1-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson10-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson11-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson2-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson3-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson4-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson4-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson4-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson4-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson4-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson4-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson5-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson6-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson6-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson6-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson6-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson6-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson6-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson7-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson7-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson7-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson7-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson7-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson7-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson8-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series1-lesson9-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson1-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson2-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson3-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson4-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson5-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson6-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson7-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson8-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series2-lesson9-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson1-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson1-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson1-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson1-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson1-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson1-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson10-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson11-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson12-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson13-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson14-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson14-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson14-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson14-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson14-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson14-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson15-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson2-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson3-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson4-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson5-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson6-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson6-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson6-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson6-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson6-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson6-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson7-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson8-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series3-lesson9-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson1-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson1-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson1-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson1-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson1-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson1-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson10-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson11-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson12-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson13-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson13-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson13-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson13-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson13-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson13-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson2-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson2-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson2-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson2-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson2-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson2-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson3-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson3-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson3-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson3-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson3-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson3-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson4-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson4-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson4-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson4-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson4-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson4-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson5-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson6-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson7-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson8-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series4-lesson9-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson1-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson2-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson3-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson4-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson5-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson5-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson5-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson5-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson5-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson5-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson6-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson6-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson6-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson6-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson6-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson6-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson7-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series5-lesson8-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson1-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson10-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson10-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson10-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson10-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson10-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson10-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson2-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson3-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson4-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson5-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson6-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson6-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson6-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson6-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson6-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson6-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase10 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase8 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson7-phase9 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson8-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase1 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase2 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase3 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase4 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase5 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase6 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-Test-year-plan-series6-lesson9-phase7 a schema:DigitalDocument ;
+    schema:encodingFormat "text/markdown" .
+

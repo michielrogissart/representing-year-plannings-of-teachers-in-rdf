@@ -1,0 +1,136 @@
+@prefix edulevel: <http://ilearn.ilabt.imec.be/vocab/ondniv/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <https://schema.org/> .
+
+### Levels of basis onderwijs
+edulevel:basis rdf:type schema:DefinedTermSet;
+    schema:name "basisonderwijs"@nl.
+
+edulevel:basis-bulo rdf:type schema:DefinedTerm;
+    schema:name "buitengewoon lager onderwijs"@nl;
+    schema:typicalAgeRange "6-11";
+    schema:inDefinedTermSet edulevel:basis.
+
+edulevel:basis-kleuter rdf:type schema:DefinedTermSet;
+    schema:name "kleuteronderwijs"@nl;
+    schema:typicalAgeRange "3-5";
+    schema:isPartOf edulevel:basis.
+
+edulevel:basis-kleuter-3j rdf:type schema:DefinedTerm;
+    schema:name "3 jaar of jonger"@nl;
+    schema:alternateName "drie jaar of jonger"@nl;
+    schema:typicalAgeRange "3";
+    schema:inDefinedTermSet edulevel:basis-kleuter.
+
+edulevel:basis-kleuter-4j rdf:type schema:DefinedTerm;
+    schema:name "4 jaar"@nl;
+    schema:alternateName "vier jaar"@nl;
+    schema:typicalAgeRange "4";
+    schema:inDefinedTermSet edulevel:basis-kleuter.
+
+edulevel:basis-kleuter-5j rdf:type schema:DefinedTerm;
+    schema:name "5 jaar"@nl;
+    schema:alternateName "vijf jaar"@nl;
+    schema:typicalAgeRange "5";
+    schema:inDefinedTermSet edulevel:basis-kleuter.
+
+edulevel:basis-lager rdf:type schema:DefinedTermSet;
+    schema:name "lager onderwijs"@nl;
+    schema:typicalAgeRange "6-11";
+    schema:isPartOf edulevel:basis.
+
+edulevel:basis-lager-lj1 rdf:type schema:DefinedTerm;
+    schema:name "1ste leerjaar"@nl;
+    schema:alternateName "1e leerjaar"@nl, "eerste leerjaar"@nl ;
+    schema:typicalAgeRange "6";
+    schema:inDefinedTermSet edulevel:basis-lager.
+
+edulevel:basis-lager-lj2 rdf:type schema:DefinedTerm;
+    schema:name "2e leerjaar"@nl;
+    schema:alternateName "tweede leerjaar"@nl ;
+    schema:typicalAgeRange "7";
+    schema:inDefinedTermSet edulevel:basis-lager.
+
+edulevel:basis-lager-lj3 rdf:type schema:DefinedTerm;
+    schema:name "3e leerjaar"@nl;
+    schema:alternateName "derde leerjaar"@nl ;
+    schema:typicalAgeRange "8";
+    schema:inDefinedTermSet edulevel:basis-lager.
+
+edulevel:basis-lager-lj4 rdf:type schema:DefinedTerm;
+    schema:name "4e leerjaar"@nl;
+    schema:alternateName "vierde leerjaar"@nl ;
+    schema:typicalAgeRange "9";
+    schema:inDefinedTermSet edulevel:basis-lager.
+
+edulevel:basis-lager-lj5 rdf:type schema:DefinedTerm;
+    schema:name "5e leerjaar"@nl;
+    schema:alternateName "vijfde leerjaar"@nl ;
+    schema:typicalAgeRange "10";
+    schema:inDefinedTermSet edulevel:basis-lager.
+
+edulevel:basis-lager-lj6 rdf:type schema:DefinedTerm;
+    schema:name "6e leerjaar"@nl;
+    schema:alternateName "zesde leerjaar"@nl ;
+    schema:typicalAgeRange "11";
+    schema:inDefinedTermSet edulevel:basis-lager.
+
+### Levels of secundair onderwijs
+edulevel:sec rdf:type schema:DefinedTermSet;
+    schema:name "secundair onderwijs"@nl;
+    schema:typicalAgeRange "12-17" .
+
+edulevel:sec-gr1 rdf:type schema:DefinedTermSet;
+    schema:name "1ste graad"@nl;
+    schema:alternateName "1e graad"@nl, "eerste graad"@nl ;
+    schema:typicalAgeRange "12-13";
+    schema:isPartOf edulevel:sec.
+
+edulevel:sec-gr1-astroom rdf:type schema:DefinedTerm;
+    schema:name "a-stroom"@nl;
+    schema:inDefinedTermSet edulevel:sec-gr1.
+
+edulevel:sec-gr1-bstroom rdf:type schema:DefinedTerm;
+    schema:name "b-stroom"@nl;
+    schema:inDefinedTermSet edulevel:sec-gr1.
+
+edulevel:sec-gr2 rdf:type schema:DefinedTermSet;
+    schema:name "2e graad"@nl;
+    schema:alternateName "tweede graad"@nl ;
+    schema:typicalAgeRange "14-15";
+    schema:isPartOf edulevel:sec.
+
+edulevel:sec-gr2-arbeidsmarkt rdf:type schema:DefinedTerm;
+    schema:name "finaliteit arbeidsmarkt"@nl;
+    schema:alternateName "arbeidsmarktfinaliteit"@nl ;
+    schema:inDefinedTermSet edulevel:sec-gr2.
+
+edulevel:sec-gr2-doorstroom rdf:type schema:DefinedTerm;
+    schema:name "finaliteit doorstroom"@nl;
+    schema:alternateName "doorstroomfinaliteit"@nl ;
+    schema:inDefinedTermSet edulevel:sec-gr2.
+
+edulevel:sec-gr2-dubbel rdf:type schema:DefinedTerm;
+    schema:name "dubbele finaliteit"@nl;
+    schema:inDefinedTermSet edulevel:sec-gr2.
+
+edulevel:sec-gr3 rdf:type schema:DefinedTermSet;
+    schema:name "3e graad"@nl;
+    schema:typicalAgeRange "16-17";
+    schema:isPartOf edulevel:sec.
+
+edulevel:sec-gr3-arbeidsmarkt rdf:type schema:DefinedTerm;
+    schema:name "finaliteit arbeidsmarkt"@nl;
+    schema:inDefinedTermSet edulevel:sec-gr3.
+
+edulevel:sec-gr3-doorstroom rdf:type schema:DefinedTerm;
+    schema:name "finaliteit doorstroom"@nl;
+    schema:inDefinedTermSet edulevel:sec-gr3.
+
+edulevel:sec-gr3-dubbel rdf:type schema:DefinedTerm;
+    schema:name "dubbele finaliteit"@nl;
+    schema:inDefinedTermSet edulevel:sec-gr3.
+
+edulevel:buso rdf:type schema:DefinedTerm;
+    schema:name "buitengewoon secundair onderwijs"@nl;
+    schema:typicalAgeRange "12-17".

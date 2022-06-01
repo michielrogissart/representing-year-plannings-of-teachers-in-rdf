@@ -1,0 +1,35 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix myont: <http://myontology.com/myont/> .
+@prefix coursematerial: <http://myontology.com/cursusmateriaal/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+_:teacher rdf:type foaf:Person;
+    foaf:givenName "Else";
+    foaf:familyName "Delacre" .
+
+_:writer rdf:type foaf:Person;
+    foaf:givenName "Bilal";
+    foaf:familyName "Degroote" .
+
+_:publisher rdf:type foaf:Organization;
+    foaf:name "Publisher of Educational Course Material nv" .
+
+coursematerial:publisher-material-kansrekenen rdf:type bibo:Book, schema:LearningResource;
+    dcterms:title "Handboek Kansrekenen 3e graad 6u wiskunde"@nl;
+    dcterms:contributor _:writer;
+    dcterms:publisher _:publisher;
+    bibo:producer _:publisher;
+    bibo:owner _:publisher;
+    bibo:numPages 128 .
+
+coursematerial:teacher-material-stochastiek rdf:type bibo:Document, schema:LearningResource;
+    bibo:numPages 24;
+    bibo:producer _:teacher;
+    bibo:owner _:teacher;
+    bibo:references coursematerial:publisher-material-kansrekenen;
+    schema:isBasedOn coursematerial:publisher-material-kansrekenen;
+    dcterms:title "Cursus Stochastiek 6TW"@nl;
+    schema:encodingFormat "application/pdf" .

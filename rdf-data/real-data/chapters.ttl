@@ -1,0 +1,79 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix chapter: <http://myontology.com/hoofdstukken/> .
+@prefix coursematerial: <http://myontology.com/cursusmateriaal/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+chapter:publisher-material-kansrekenen-chapter1 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:chapter 1 ;
+    bibo:pageEnd 41 ;
+    bibo:pageStart 8 ;
+    schema:name "1. Dingen Tellen"@nl .
+
+chapter:publisher-material-kansrekenen-chapter2 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:chapter 2 ;
+    bibo:pageEnd 60 ;
+    bibo:pageStart 44 ;
+    schema:name "2. Deelverzamelingen tellen"@nl .
+
+chapter:publisher-material-kansrekenen-chapter3 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:chapter 3 ;
+    bibo:pageEnd 103 ;
+    bibo:pageStart 61 ;
+    schema:name "3. Rekenen met kansen"@nl .
+
+chapter:publisher-material-kansrekenen-chapter4 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+    bibo:chapter 4 ;
+    bibo:pageEnd 149 ;
+    bibo:pageStart 106 ;
+    schema:name "4. Verdelingen van kansen"@nl .
+
+chapter:teacher-material-stochastiek-chapter1 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:chapter 1 ;
+    bibo:pageEnd 7 ;
+    bibo:pageStart 3 ;
+    schema:name "1. Kansrekenen"@nl .
+
+chapter:teacher-material-stochastiek-chapter2 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:chapter 2 ;
+    bibo:pageEnd 16 ;
+    bibo:pageStart 8 ;
+    schema:name "1. Kansverdelingen"@nl .
+
+chapter:teacher-material-stochastiek-chapter3 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:chapter 3 ;
+    bibo:pageEnd 20 ;
+    bibo:pageStart 17 ;
+    schema:name "3. Uitspraken op basis van gegevens"@nl .
+
+chapter:teacher-material-stochastiek-chapter4 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:chapter 4 ;
+    bibo:pageEnd 22 ;
+    bibo:pageStart 21 ;
+    schema:name "4. Steekproefverdelingen"@nl .
+
+chapter:teacher-material-stochastiek-chapter5 a bibo:Chapter,
+        schema:LearningResource ;
+    dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+    bibo:chapter 5 ;
+    bibo:pageEnd 24 ;
+    bibo:pageStart 23 ;
+    schema:name "5. Uitspraken op basis van steekproefverdelingen"@nl .
+

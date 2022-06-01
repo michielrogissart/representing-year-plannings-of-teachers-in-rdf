@@ -1,0 +1,28 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix myont: <http://myontology.com/myont/> .
+@prefix document: <http://myontology.com/documenten/> .
+
+document:doc-les1-fase1 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1-fase2 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1-fase3 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1-fase4 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1-fase5 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1-fase6 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1-fase7 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "text/markdown" .
+
+document:doc-les1 rdf:type schema:DigitalDocument;
+    schema:encodingFormat "application/pdf" .

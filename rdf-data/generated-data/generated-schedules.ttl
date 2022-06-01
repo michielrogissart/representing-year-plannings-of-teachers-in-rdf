@@ -1,0 +1,137 @@
+@prefix schedule: <http://myontology.com/schedules/> .
+@prefix schema: <https://schema.org/> .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2122-0 a schema:Schedule ;
+    schema:byDay schema:Monday ;
+    schema:endDate "2022-06-30" ;
+    schema:endTime "09:15:00" ;
+    schema:exceptDate "2021-11-01",
+        "2021-11-11",
+        "2021-12-25",
+        "2022-01-01",
+        "2022-04-18",
+        "2022-05-01",
+        "2022-05-26",
+        "2022-06-06" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2021-09-01" ;
+    schema:startTime "08:25:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2122-1 a schema:Schedule ;
+    schema:byDay schema:Wednesday ;
+    schema:endDate "2022-06-30" ;
+    schema:endTime "11:10:00",
+        "12:00:00" ;
+    schema:exceptDate "2021-11-01",
+        "2021-11-11",
+        "2021-12-25",
+        "2022-01-01",
+        "2022-04-18",
+        "2022-05-01",
+        "2022-05-26",
+        "2022-06-06" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2021-09-01" ;
+    schema:startTime "10:20:00",
+        "11:10:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2122-2 a schema:Schedule ;
+    schema:byDay schema:Thursday ;
+    schema:endDate "2022-06-30" ;
+    schema:endTime "14:00:00" ;
+    schema:exceptDate "2021-11-01",
+        "2021-11-11",
+        "2021-12-25",
+        "2022-01-01",
+        "2022-04-18",
+        "2022-05-01",
+        "2022-05-26",
+        "2022-06-06" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2021-09-01" ;
+    schema:startTime "13:10:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2122-3 a schema:Schedule ;
+    schema:byDay schema:Friday ;
+    schema:endDate "2022-06-30" ;
+    schema:endTime "14:50:00" ;
+    schema:exceptDate "2021-11-01",
+        "2021-11-11",
+        "2021-12-25",
+        "2022-01-01",
+        "2022-04-18",
+        "2022-05-01",
+        "2022-05-26",
+        "2022-06-06" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2021-09-01" ;
+    schema:startTime "14:00:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2223-0 a schema:Schedule ;
+    schema:byDay schema:Monday ;
+    schema:endDate "2023-06-30" ;
+    schema:endTime "10:05:00",
+        "14:50:00" ;
+    schema:exceptDate "2022-11-01",
+        "2022-11-11",
+        "2022-12-25",
+        "2023-01-01",
+        "2023-04-10",
+        "2023-05-01",
+        "2023-05-18",
+        "2023-05-29" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2022-09-01" ;
+    schema:startTime "09:15:00",
+        "14:00:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2223-1 a schema:Schedule ;
+    schema:byDay schema:Tuesday ;
+    schema:endDate "2023-06-30" ;
+    schema:endTime "10:05:00" ;
+    schema:exceptDate "2022-11-01",
+        "2022-11-11",
+        "2022-12-25",
+        "2023-01-01",
+        "2023-04-10",
+        "2023-05-01",
+        "2023-05-18",
+        "2023-05-29" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2022-09-01" ;
+    schema:startTime "09:15:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2223-2 a schema:Schedule ;
+    schema:byDay schema:Wednesday ;
+    schema:endDate "2023-06-30" ;
+    schema:endTime "11:10:00",
+        "12:00:00" ;
+    schema:exceptDate "2022-11-01",
+        "2022-11-11",
+        "2022-12-25",
+        "2023-01-01",
+        "2023-04-10",
+        "2023-05-01",
+        "2023-05-18",
+        "2023-05-29" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2022-09-01" ;
+    schema:startTime "10:20:00",
+        "11:10:00" .
+
+schedule:schedule-wisk-sec-gr3-doorstroom-2223-3 a schema:Schedule ;
+    schema:byDay schema:Thursday ;
+    schema:endDate "2023-06-30" ;
+    schema:endTime "09:15:00" ;
+    schema:exceptDate "2022-11-01",
+        "2022-11-11",
+        "2022-12-25",
+        "2023-01-01",
+        "2023-04-10",
+        "2023-05-01",
+        "2023-05-18",
+        "2023-05-29" ;
+    schema:repeatFrequency "P1W" ;
+    schema:startDate "2022-09-01" ;
+    schema:startTime "08:25:00" .
+

@@ -1,0 +1,31 @@
+PREFIX onddoel: <http://ilearn.ilabt.imec.be/vocab/onddoel/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX doelen: <http://www.myontology.com/doelen/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX schema: <https://schema.org/>
+PREFIX domain: <http://ilearn.ilabt.imec.be/vocab/curr1/>
+PREFIX curr2: <http://ilearn.ilabt.imec.be/vocab/curr2/>
+
+CONSTRUCT {
+    ?doel rdf:type schema:DefinedTerm .
+    ?doel schema:termCode ?termc .
+    ?doel schema:description ?def .
+    ?doel schema:identifier ?id .
+    ?doel schema:url ?doel .
+    ?doel schema:inDefinedTermSet ?curr .
+}
+
+WHERE {
+    ?doel skos:inScheme onddoel:_scheme .
+    ?doel skos:definition ?def .
+    ?doel skos:hiddenLabel ?termc .
+    ?doel skos:prefLabel ?id .
+    OPTIONAL {
+        ?doel skos:related ?curr .
+        {
+            ?curr skos:inScheme domain:_scheme.
+        } UNION {
+            ?curr skos:inScheme curr2:_scheme.
+        }
+    }
+}

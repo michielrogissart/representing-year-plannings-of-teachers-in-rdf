@@ -1,0 +1,8 @@
+@prefix myont: <http://myontology.com/myont/> .
+@prefix yearplan: <http://myontology.com/jaarplannen/> .
+@prefix coursematerial: <http://myontology.com/cursusmateriaal/> .
+@prefix schema: <https://schema.org/>.
+
+yearplan:Test-year-plan a myont:YearPlan;
+    myont:hasLearningResource coursematerial:publisher-material-kansrekenen, coursematerial:teacher-material-stochastiek .
+

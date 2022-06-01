@@ -1,0 +1,2562 @@
+@prefix comp: <http://ilearn.ilabt.imec.be/vocab/onddoel/> .
+@prefix edutaxonomies: <http://myontology.com/taxonomieen/> .
+@prefix excerpt: <http://myontology.com/uittreksels/> .
+@prefix exercise: <http://myontology.com/oefeningen/> .
+@prefix exercisetype: <http://myontology.com/oefeningtypes/> .
+@prefix myont: <http://myontology.com/myont/> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise1 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise10 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 10 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise11 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 11 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise12 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 12 ;
+    schema:teaches comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise13 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 13 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise14 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 14 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise15 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 15 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise16 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 16 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise17 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 17 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise18 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 18 ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise19 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 19 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise2 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise20 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt8 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 20 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise21 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt8 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 21 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise22 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt8 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 22 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise23 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt9 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 23 ;
+    schema:teaches comp:sec-6.16-893310338 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise24 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt9 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 24 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise25 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt9 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 25 ;
+    schema:teaches comp:sec-6.16-893310338 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise26 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 26 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise27 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 27 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise28 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 28 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise29 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 29 ;
+    schema:teaches comp:sec-6.16-893310338 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise3 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.40-898439111 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise30 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 30 ;
+    schema:teaches comp:sec-6.24-3313539547 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise31 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 31 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise32 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 32 ;
+    schema:teaches comp:sec-6.16-893310338 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise33 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 33 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise34 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 34 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise35 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 35 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise36 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 36 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise37 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 37 ;
+    schema:teaches comp:sec-6.24-3313539547 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise38 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 38 ;
+    schema:teaches comp:sec-6.40-898439111 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise39 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 39 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise4 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 4 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise40 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 40 ;
+    schema:teaches comp:sec-6.6-1430533698 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise41 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 41 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise42 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 42 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise43 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 43 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise44 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 44 ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise45 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 45 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise46 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 46 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise47 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 47 ;
+    schema:teaches comp:sec-6.38-1423413976 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise48 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 48 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise49 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 49 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise5 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 5 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise50 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 50 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise51 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 51 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise52 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 52 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise53 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 53 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise54 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 54 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise55 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 55 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise56 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 56 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise57 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 57 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise58 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 58 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise59 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 59 ;
+    schema:teaches comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise6 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 6 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise60 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 60 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise61 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 61 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise62 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 62 ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise63 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 63 ;
+    schema:teaches comp:sec-6.2-2258842063 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise64 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 64 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise65 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 65 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise66 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 66 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise67 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 67 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise68 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 68 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise69 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 69 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise7 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 7 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise70 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 70 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise71 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt11 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 71 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise72 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 72 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise73 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 73 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise74 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 74 ;
+    schema:teaches comp:sec-6.38-1423413976 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise75 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 75 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise76 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 76 ;
+    schema:teaches comp:sec-6.6-1430533698 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise77 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 77 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise78 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 78 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise79 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 79 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise8 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 8 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise80 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 80 ;
+    schema:teaches comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise81 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 81 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise82 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 82 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise83 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 83 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise84 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 84 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise85 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 85 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise86 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 86 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise87 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 87 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise88 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 88 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise89 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 89 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise9 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 9 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter1-exercise90 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter1-excerpt13 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 90 ;
+    schema:teaches comp:sec-6.42-2248191429 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise1 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise10 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 10 ;
+    schema:teaches comp:sec-6.4-4053933275 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise11 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 11 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise12 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 12 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise13 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 13 ;
+    schema:teaches comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise14 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 14 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise15 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 15 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise16 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 16 ;
+    schema:teaches comp:sec-6.4-4053933275 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise17 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 17 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise18 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 18 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise19 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 19 ;
+    schema:teaches comp:sec-6.25-375233548 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise2 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise20 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 20 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise21 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 21 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise22 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 22 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise23 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 23 ;
+    schema:teaches comp:sec-6.2-2258842063 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise24 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 24 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise25 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 25 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise26 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 26 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise27 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 27 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise28 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 28 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise29 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 29 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise3 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise30 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 30 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise31 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 31 ;
+    schema:teaches comp:sec-6.21-1535442684 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise32 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 32 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise33 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 33 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise4 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 4 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise5 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 5 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise6 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 6 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise7 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 7 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise8 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 8 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter2-exercise9 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter2-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 9 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise1 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise10 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 10 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise11 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 11 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise12 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 12 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise13 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 13 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise14 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 14 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise15 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 15 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise16 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 16 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise17 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 17 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise18 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 18 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise19 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 19 ;
+    schema:teaches comp:sec-6.2-2258842063 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise2 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise20 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 20 ;
+    schema:teaches comp:sec-6.42-2248191429 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise21 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 21 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise22 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 22 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise23 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 23 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise24 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 24 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise25 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl,
+        "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt4,
+        excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 25 ;
+    schema:teaches comp:sec-6.22-2145158075,
+        comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise26 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl,
+        "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt4,
+        excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 26 ;
+    schema:teaches comp:sec-6.23-1379620542,
+        comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise27 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl,
+        "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt4,
+        excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 27 ;
+    schema:teaches comp:sec-6.42-2248191429,
+        comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise28 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 28 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise29 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 29 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise3 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise30 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 30 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise31 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 31 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise32 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 32 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise33 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 33 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise34 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 34 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise35 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 35 ;
+    schema:teaches comp:sec-6.6-1430533698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise36 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 36 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise37 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 37 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise38 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 38 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise39 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 39 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise4 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 4 ;
+    schema:teaches comp:sec-6.4-4053933275 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise40 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 40 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise41 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 41 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise42 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 42 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise43 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 43 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise44 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 44 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise45 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 45 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise46 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 46 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise47 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 47 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise48 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 48 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise49 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 49 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise5 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 5 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise50 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 50 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise51 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 51 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise52 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 52 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise53 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 53 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise54 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 54 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise55 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 55 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise56 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 56 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise57 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 57 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise58 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 58 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise59 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 59 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise6 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 6 ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise60 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 60 ;
+    schema:teaches comp:sec-6.2-2258842063 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise61 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 61 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise62 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 62 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise63 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 63 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise64 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 64 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise65 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 65 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise66 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 66 ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise67 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 67 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise68 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 68 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise69 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 69 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise7 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 7 ;
+    schema:teaches comp:sec-6.6-1430533698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise70 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 70 ;
+    schema:teaches comp:sec-6.4-4053933275 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise71 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 71 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise72 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 72 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise73 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 73 ;
+    schema:teaches comp:sec-6.42-2248191429 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise74 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 74 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise75 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 75 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise76 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 76 ;
+    schema:teaches comp:sec-6.24-3313539547 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise77 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 77 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise78 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 78 ;
+    schema:teaches comp:sec-6.6-1430533698 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise79 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 79 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise8 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 8 ;
+    schema:teaches comp:sec-6.24-3313539547 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise80 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt6 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 80 ;
+    schema:teaches comp:sec-6.25-375233548 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise81 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 81 ;
+    schema:teaches comp:sec-6.20-1086234763 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise82 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 82 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise83 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 83 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise84 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 84 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise85 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 85 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise86 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 86 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise87 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 87 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise88 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 88 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise89 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 89 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise9 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 9 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise90 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 90 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise91 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 91 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise92 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 92 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise93 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 93 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter3-exercise94 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter3-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 94 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise1 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.40-898439111 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise10 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 10 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise11 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 11 ;
+    schema:teaches comp:sec-6.6-1430533698 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise12 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 12 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise13 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 13 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise14 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 14 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise15 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 15 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise16 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 16 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise17 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 17 ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise18 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 18 ;
+    schema:teaches comp:sec-6.11-696981899 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise19 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 19 ;
+    schema:teaches comp:sec-6.23-1379620542 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise2 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise20 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 20 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise21 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 21 ;
+    schema:teaches comp:sec-6.30-3152180324 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise22 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 22 ;
+    schema:teaches comp:sec-6.2-2258842063 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise23 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt3 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 23 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise24 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 24 ;
+    schema:teaches comp:sec-6.21-1535442684 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise25 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 25 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise26 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 26 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise27 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt4 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 27 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise28 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 28 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise29 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 29 ;
+    schema:teaches comp:sec-6.38-1423413976 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise3 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise30 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 30 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise31 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 31 ;
+    schema:teaches comp:sec-6.40-898439111 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise32 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 32 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise33 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 33 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise34 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 34 ;
+    schema:teaches comp:sec-6.28-3420796936 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise35 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 35 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise36 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 36 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise37 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 37 ;
+    schema:teaches comp:sec-6.26-3095091543 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise38 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 38 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise39 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt5 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 39 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise4 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 4 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise40 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 40 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise41 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 41 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise42 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 42 ;
+    schema:teaches comp:sec-6.7-1559769219 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise43 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 43 ;
+    schema:teaches comp:sec-6.33-2931451469 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise44 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 44 ;
+    schema:teaches comp:sec-6.42-2248191429 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise45 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 45 ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise46 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 46 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise47 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 47 ;
+    schema:teaches comp:sec-6.39-1461280977 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise48 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 48 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise49 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 49 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise5 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 5 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise50 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 50 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise51 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 51 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise52 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 52 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise53 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 53 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise54 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 54 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise55 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 55 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise56 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 56 ;
+    schema:teaches comp:sec-6.27-3960050681 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise57 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 57 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise58 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 58 ;
+    schema:teaches comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise59 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 59 ;
+    schema:teaches comp:sec-6.8-3994353856 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise6 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 6 ;
+    schema:teaches comp:sec-6.25-375233548 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise60 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 60 ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise61 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 61 ;
+    schema:teaches comp:sec-6.29-2961450352 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise62 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 62 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise63 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt7 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 63 ;
+    schema:teaches comp:sec-6.15-2875060543 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise64 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 64 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise65 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 65 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise66 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 66 ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise67 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 67 ;
+    schema:teaches comp:sec-6.40-898439111 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise68 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 68 ;
+    schema:teaches comp:sec-6.37-3988384702 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise69 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 69 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise7 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 7 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise70 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 70 ;
+    schema:teaches comp:sec-6.42-2248191429 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise71 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 71 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise72 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 72 ;
+    schema:teaches comp:sec-6.35-1408833452 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise73 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 73 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise74 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt10 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 74 ;
+    schema:teaches comp:sec-6.41-1027412927 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise75 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 75 ;
+    schema:teaches comp:sec-6.19-163317592 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise76 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 76 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise77 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 77 ;
+    schema:teaches comp:sec-6.43-3521371261 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise78 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 78 ;
+    schema:teaches comp:sec-6.31-4159341895 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise79 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 79 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise8 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 8 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise80 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 80 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise81 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 81 ;
+    schema:teaches comp:sec-6.22-2145158075 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise82 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 82 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise83 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 83 ;
+    schema:teaches comp:sec-6.9-2736311339 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise84 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 84 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise85 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt12 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 85 ;
+    schema:teaches comp:sec-6.17-1134487788 .
+
+exercise:publisher-material-kansrekenen-chapter4-exercise9 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:publisher-material-kansrekenen-chapter4-excerpt2 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 9 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise1 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.16-893310338 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise2 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise3 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.34-1866874566 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise4 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 4 ;
+    schema:teaches comp:sec-6.13-1308011873 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise5 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 5 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise6 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 6 ;
+    schema:teaches comp:sec-6.12-2187583694 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise7 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 7 ;
+    schema:teaches comp:sec-6.36-1741261119 .
+
+exercise:teacher-material-stochastiek-chapter1-exercise8 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter1-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 8 ;
+    schema:teaches comp:sec-6.14-2400798259 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise1 a myont:EducationalExercise ;
+    myont:difficulty "gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise2 a myont:EducationalExercise ;
+    myont:difficulty "Erg moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.3-2761610698 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise3 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-create ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.21-1535442684 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise4 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 4 ;
+    schema:teaches comp:sec-6.1-2672577291 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise5 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 5 ;
+    schema:teaches comp:sec-6.5-2444922719 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise6 a myont:EducationalExercise ;
+    myont:difficulty "moeilijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-understand ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 6 ;
+    schema:teaches comp:sec-6.10-2152058399 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise7 a myont:EducationalExercise ;
+    myont:difficulty "Erg gemakkelijk"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-remember ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 7 ;
+    schema:teaches comp:sec-6.32-1353985410 .
+
+exercise:teacher-material-stochastiek-chapter2-exercise8 a myont:EducationalExercise ;
+    myont:difficulty "gemiddeld"@nl ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    schema:isPartOf excerpt:teacher-material-stochastiek-chapter2-excerpt1 ;
+    schema:learningResourceType exercisetype:FillInQuestion ;
+    schema:position 8 ;
+    schema:teaches comp:sec-6.18-3357967122 .
+

@@ -1,0 +1,97 @@
+phase:Test-year-plan-series1-lesson1-phase1 a myont:LessonPhase ;
+    myont:describedBy document:doc-Test-year-plan-series1-lesson1-phase1 ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    myont:hasLearningResource [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+            bibo:pageEnd 16 ;
+            bibo:pageStart 15 ],
+        [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+            bibo:pageEnd 83 ;
+            bibo:pageStart 79 ],
+        exercise:publisher-material-kansrekenen-chapter1-exercise11 ;
+    myont:interactivityLevel "Erg laag"@nl ;
+    schema:description "Lessonphase description of Test-year-plan-series1-lesson1-phase1" ;
+    schema:educationalUse eduse:test ;
+    schema:interactivityType "actief"@nl ;
+    schema:isPartOf lesson:Test-year-plan-series1-lesson1 ;
+    schema:name "Test-year-plan-series1-lesson1-phase1" ;
+    schema:position 1 ;
+    schema:teaches comp:sec-6.21-3917619039 ;
+    schema:timeRequired "PT8M1S" .
+
+phase:Test-year-plan-series1-lesson1-phase2 a myont:LessonPhase ;
+    myont:describedBy document:doc-Test-year-plan-series1-lesson1-phase2 ;
+    myont:hasCategory edutaxonomies:revisedBloom-analyze ;
+    myont:hasLearningResource [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+            bibo:pageEnd 99 ;
+            bibo:pageStart 97 ],
+        [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+            bibo:pageEnd 16 ;
+            bibo:pageStart 16 ],
+        exercise:publisher-material-kansrekenen-chapter1-exercise14,
+        exercise:publisher-material-kansrekenen-chapter3-exercise18 ;
+    myont:interactivityLevel "hoog"@nl ;
+    schema:description "Lessonphase description of Test-year-plan-series1-lesson1-phase2" ;
+    schema:educationalUse eduse:rehearse ;
+    schema:interactivityType "actief"@nl ;
+    schema:isPartOf lesson:Test-year-plan-series1-lesson1 ;
+    schema:name "Test-year-plan-series1-lesson1-phase2" ;
+    schema:position 2 ;
+    schema:teaches comp:sec-6.3.6-3224155666,
+        comp:sec-6.6.4-2761610698,
+        comp:sec-6.9-4138436189 ;
+    schema:timeRequired "PT3M45S" .
+
+phase:Test-year-plan-series1-lesson1-phase3 a myont:LessonPhase ;
+    myont:describedBy document:doc-Test-year-plan-series1-lesson1-phase3 ;
+    myont:hasCategory edutaxonomies:revisedBloom-apply ;
+    myont:hasLearningResource [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+            bibo:pageEnd 16 ;
+            bibo:pageStart 16 ],
+        [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+            bibo:pageEnd 141 ;
+            bibo:pageStart 123 ],
+        exercise:publisher-material-kansrekenen-chapter1-exercise69 ;
+    myont:interactivityLevel "Erg hoog"@nl ;
+    schema:description "Lessonphase description of Test-year-plan-series1-lesson1-phase3" ;
+    schema:educationalUse eduse:exercise ;
+    schema:interactivityType "actief"@nl ;
+    schema:isPartOf lesson:Test-year-plan-series1-lesson1 ;
+    schema:name "Test-year-plan-series1-lesson1-phase3" ;
+    schema:position 3 ;
+    schema:teaches comp:sec-6.14-2400798259 ;
+    schema:timeRequired "PT4M21S" .
+
+phase:Test-year-plan-series1-lesson1-phase4 a myont:LessonPhase ;
+    myont:describedBy document:doc-Test-year-plan-series1-lesson1-phase4 ;
+    myont:hasCategory edutaxonomies:revisedBloom-evaluate ;
+    myont:hasLearningResource [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:teacher-material-stochastiek ;
+            bibo:pageEnd 16 ;
+            bibo:pageStart 14 ],
+        [ a bibo:Excerpt,
+                schema:LearningResource ;
+            dcterms:isPartOf coursematerial:publisher-material-kansrekenen ;
+            bibo:pageEnd 32 ;
+            bibo:pageStart 25 ],
+        exercise:publisher-material-kansrekenen-chapter1-exercise71 ;
+    myont:interactivityLevel "laag"@nl ;
+    schema:description "Lessonphase description of Test-year-plan-series1-lesson1-phase4" ;
+    schema:educationalUse eduse:introduce ;
+    schema:interactivityType "actief"@nl ;
+    schema:isPartOf lesson:Test-year-plan-series1-lesson1 ;
+    schema:name "Test-year-plan-series1-lesson1-phase4" ;
+    schema:position 4 ;
+    schema:timeRequired "PT6M55S" .

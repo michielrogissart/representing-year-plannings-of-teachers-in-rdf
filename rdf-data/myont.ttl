@@ -1,0 +1,67 @@
+@prefix myont: <http://myontology.com/myont/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema>
+
+# Classes
+
+myont:LessonPhase rdfs:subClassOf schema:CreativeWork;
+    rdfs:label "Lesson Phase";
+    rdfs:comment "The smallest unit do describe parts of a lesson." .
+
+myont:Lesson rdfs:subClassOf schema:CreativeWork;
+    rdfs:label "Lesson";
+    rdfs:comment "Time and place independent lesson.".
+
+myont:LessonSeries rdfs:subClassOf schema:CreativeWork;
+    rdfs:label "Lesson Series";
+    rdfs:comment "A sequence of lessons." .
+
+myont:YearPlan rdfs:subClassOf schema:CreativeWork;
+    rdfs:label "Year plan";
+    rdfs:comment "Collection of lessons given throughout a school year. These can be grouped into lesson series.".
+
+myont:EducationalExercise rdfs:subClassOf schema:LearningResource;
+    rdfs:label "Educational Exercise";
+    rdfs:comment "An exercise with educational purposes." .
+
+# Object Properties
+
+myont:describedBy rdf:type rdfs:Property;
+    rdfs:domain schema:CreativeWork;
+    rdfs:range schema:CreativeWork;
+    rdfs:label "Described By";
+    rdfs:comment "A document describing a creative work." .
+
+myont:hasLearningResource rdf:type rdfs:Property;
+    rdfs:domain schema:CreativeWork;
+    rdfs:range schema:LearningResource;
+    rdfs:label "Has Learning Resource";
+    rdfs:comment "Indicates a learning resource is used within a creative work with educational purposes." .
+
+myont:hasCategory rdf:type rdfs:Property;
+    rdfs:domain schema:CreativeWork;
+    rdfs:range schema:CategoryCode;
+    rdfs:label "Has category";
+    rdfs:comment "A category of a creative work. Usually a category within a taxonomy." .
+
+# Data Properties
+
+myont:interactivityLevel rdf:type rdfs:Property;
+    rdfs:domain schema:CreativeWork;
+    rdfs:range xsd:string;
+    rdfs:label "Interactivity Level";
+    rdfs:comment "The level of interactivity of a creative work. Acceptable values are 'Very low', 'low', 'medium', 'high' and 'Very high'." .
+
+myont:difficulty rdf:type rdfs:Property;
+    rdfs:domain myont:EducationalExercise;
+    rdfs:range xsd:string;
+    rdfs:label "Difficulty";
+    rdfs:comment "The difficulty of an exercise. Acceptable values are 'very easy', 'easy', 'medium', 'difficult' and 'very difficult'." .
+
+myont:semanticalDensity rdf:type rdfs:Property;
+    rdfs:domain schema:CreativeWork;
+    rdfs:range xsd:string;
+    rdfs:label "Semantical Density";
+    rdfs:comment "Indicates how much semantically different concepts a creative work incorproates. Acceptable values are Very low', 'low', 'medium', 'high' and 'Very high'." .

@@ -1,0 +1,56 @@
+@prefix course: <http://myontology.com/courses/> .
+@prefix cred: <http://myontology.com/cred/> .
+@prefix schema: <https://schema.org/> .
+@prefix subject: <http://myontology.com/subject/> .
+
+course:wisk-sec-gr3-doorstroom a schema:Course ;
+    schema:description "Vak wiskunde voor 3e graad in doorstroom finaliteit" ;
+    schema:hasCourseInstance subject:wisk-sec-gr3-doorstroom-2122,
+        subject:wisk-sec-gr3-doorstroom-2223 ;
+    schema:identifier "wisk-sec-gr3-doorstroom-1" ;
+    schema:name "Wiskunde 3e graad doorstroom" ;
+    schema:occupationalCredentialAwarded cred:sec-gr3-doorstroom ;
+    schema:teaches <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.1-2672577291>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.10-2152058399>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.11-696981899>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.12-2187583694>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.13-1308011873>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.14-2400798259>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.15-2875060543>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.16-893310338>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.17-1134487788>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.18-3357967122>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.19-163317592>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.2-2258842063>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.20-1086234763>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.21-1535442684>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.22-2145158075>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.23-1379620542>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.24-3313539547>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.25-375233548>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.26-3095091543>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.27-3960050681>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.28-3420796936>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.29-2961450352>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.3-2761610698>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.30-3152180324>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.31-4159341895>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.32-1353985410>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.33-2931451469>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.34-1866874566>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.35-1408833452>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.36-1741261119>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.37-3988384702>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.38-1423413976>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.39-1461280977>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.4-4053933275>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.40-898439111>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.41-1027412927>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.42-2248191429>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.43-3521371261>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.5-2444922719>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.6-1430533698>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.7-1559769219>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.8-3994353856>,
+        <http://ilearn.ilabt.imec.be/vocab/onddoel/sec-6.9-2736311339> .
+

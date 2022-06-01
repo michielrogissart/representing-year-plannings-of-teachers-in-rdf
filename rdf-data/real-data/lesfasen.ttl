@@ -1,0 +1,66 @@
+@prefix lesson: <http://myontology.com/lessen/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix comp: <http://ilearn.ilabt.imec.be/vocab/onddoel/> .
+@prefix myont: <http://myontology.com/myont/> .
+@prefix phase: <http://myontology.com/lesfasen/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <https://schema.org/>.
+@prefix document: <http://myontology.com/documenten> .
+
+lesson:les1 rdf:type myont:Lesson.
+
+phase:lesfase1 rdf:type myont:LessonPhase;
+    schema:name "Intro vector en puntvector"@nl;
+    schema:description "Inleiding over het voorstellen van vectoren mbhv de puntvector in de ruimte"@nl;
+    myont:describedBy document:doc-les1-fase1;
+    schema:timeRequired "PT3M0S";
+    schema:position 1;
+    schema:isPartOf lesson:les1 .
+
+phase:lesfase2 rdf:type myont:LessonPhase;
+    schema:name "Eenheidsvectoren"@nl;
+    schema:description "Vector als scalair product van eenheidsvectoren in de ruimte"@nl;
+    myont:describedBy document:doc-les1-fase2;
+    schema:timeRequired "PT7M0S";
+    schema:position 2;
+    schema:isPartOf lesson:les1 .
+
+phase:lesfase3 rdf:type myont:LessonPhase;
+    schema:name "Vectorbewerkingen in de ruimte"@nl;
+    schema:description "Basisbewerkingen op vectoren in de ruimte en hun meetkundige betekenis"@nl;
+    myont:describedBy document:doc-les1-fase3;
+    schema:timeRequired "PT2M0S";
+    schema:position 3;
+    schema:isPartOf lesson:les1 .
+
+phase:lesfase4 rdf:type myont:LessonPhase;
+    schema:name "Verband vector puntvector"@nl;
+    schema:description "Bepalen van de puntvector van een vector in de ruimte mbhv Chasles-Möbius en de meetkundige betekenis"@nl;
+    myont:describedBy document:doc-les1-fase4;
+    schema:timeRequired "PT5M0S";
+    schema:position 4;
+    schema:isPartOf lesson:les1 .
+
+phase:lesfase5 rdf:type myont:LessonPhase;
+    schema:name "Bijzondere punten"@nl;
+    schema:description "Bewijzen voor midden van een lijnstuk en zwaartepunt van een driehoek mbhv vectoren in de ruimte"@nl;
+    myont:describedBy document:doc-les1-fase5;
+    schema:timeRequired "PT3M0S";
+    schema:position 5;
+    schema:isPartOf lesson:les1.
+
+phase:lesfase6 rdf:type myont:LessonPhase;
+    schema:name "Norm van een vector"@nl;
+    schema:description "Betekenis en berekening van de norm van een vector in de ruimte"@nl;
+    myont:describedBy document:doc-les1-fase6;
+    schema:timeRequired "PT10M0S";
+    schema:position 6;
+    schema:isPartOf lesson:les1.
+
+phase:lesfase7 rdf:type myont:LessonPhase;
+    schema:name "Hoek tussen vectoren en scalair product van vectoren"@nl;
+    schema:description "Verband hoek tussen twee vectoren in de ruimte en hun scalair product + loodrechte stand"@nl;
+    myont:describedBy document:doc-les1-fase7;
+    schema:timeRequired "PT10M0S";
+    schema:position 7;
+    schema:isPartOf lesson:les1.

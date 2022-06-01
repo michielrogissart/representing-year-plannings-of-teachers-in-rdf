@@ -1,0 +1,389 @@
+@prefix domain: <http://ilearn.ilabt.imec.be/vocab/curr1/> .
+@prefix schema: <https://schema.org/> .
+
+domain:c-religie-en-levensbeschouwing a schema:DefinedTermSet ;
+    schema:description "Competenties betreffende religie en levensbeschouwing"@nl ;
+    schema:name "religie en levenbeschouwing"@nl .
+
+domain:s-1-communicatie a schema:DefinedTermSet ;
+    schema:description "Vreemde talen receptief, productief en interactief, zowel mondeling als schriftelijk gebruiken als communicatiemiddelen in relevante situaties."@nl ;
+    schema:isPartOf domain:c-andere-talen ;
+    schema:name "communicatie (andere talen)"@nl .
+
+domain:s-1-literatuur a schema:DefinedTermSet ;
+    schema:description "Literatuur in vreemde talen beleven."@nl ;
+    schema:isPartOf domain:c-andere-talen ;
+    schema:name "literatuur (andere talen)"@nl .
+
+domain:s-1-taal-en-cultuur a schema:DefinedTermSet ;
+    schema:description "Inzicht hebben in vreemde talen als exponenten en delen van culturen en maatschappijen."@nl ;
+    schema:isPartOf domain:c-andere-talen ;
+    schema:name "taal en cultuur (andere talen)"@nl .
+
+domain:s-1-taalsysteem a schema:DefinedTermSet ;
+    schema:description "Kenmerken en principes van vreemde talen begrijpen om ze in te zetten bij het communiceren."@nl ;
+    schema:isPartOf domain:c-andere-talen ;
+    schema:name "taalsysteem (andere talen)"@nl .
+
+domain:s-biologie a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in de basiseigenschappen van levende systemen."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-stem ;
+    schema:name "levende systemen"@nl .
+
+domain:s-bronnenkritiek a schema:DefinedTermSet ;
+    schema:description "Kritisch reflecteren met en over historische bronnen."@nl ;
+    schema:isPartOf domain:c-historisch-bewustzijn ;
+    schema:name "historische bronnenkritiek"@nl .
+
+domain:s-chemie a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in de bouw, structuur en eigenschappen van materie in levende en niet-levende systemen."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-stem ;
+    schema:name "materie (bouw, structuur, eigenschappen)"@nl .
+
+domain:s-communicatie a schema:DefinedTermSet ;
+    schema:description "Het Nederlands receptief, productief en interactief, zowel mondeling als schriftelijk gebruiken als communicatiemiddel in relevante situaties."@nl ;
+    schema:isPartOf domain:c-nederlands ;
+    schema:name "communicatie (Nederlands)"@nl .
+
+domain:s-computers-en-systemen a schema:DefinedTermSet ;
+    schema:description "Computationeel denken en handelen."@nl ;
+    schema:isPartOf domain:c-digitale-competenties-en-mediawijsheid ;
+    schema:name "computers en systemen"@nl .
+
+domain:s-democratie-en-mensenrechten a schema:DefinedTermSet ;
+    schema:description "Democratische principes en democratische cultuur kaderen binnen de moderne rechtsstaat."@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven,
+        domain:c-juridische-competenties ;
+    schema:name "democratie en mensenrechten"@nl .
+
+domain:s-dialoog a schema:DefinedTermSet ;
+    schema:description "Geïnformeerd en beargumenteerd met elkaar in dialoog gaan."@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven ;
+    schema:name "dialoog"@nl .
+
+domain:s-digitale-media-en-toepassingen a schema:DefinedTermSet ;
+    schema:description "Digitale media en toepassingen gebruiken om te creëren, te participeren en te interageren."@nl ;
+    schema:isPartOf domain:c-digitale-competenties-en-mediawijsheid ;
+    schema:name "digitale media en toepassingen"@nl .
+
+domain:s-diversiteit a schema:DefinedTermSet ;
+    schema:description "Omgaan met diversiteit in het samenleven en het samenwerken."@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven ;
+    schema:name "diversiteit"@nl .
+
+domain:s-economie a schema:DefinedTermSet ;
+    schema:description "Reflecteren over de werking van de markten en de economie als systeem en de invloed van de overheid hierop duiden binnen de (inter)nationale context."@nl ;
+    schema:isPartOf domain:c-economisch-financiele-competenties,
+        domain:c-juridische-competenties ;
+    schema:name "algemene economie"@nl .
+
+domain:s-fysica a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in de verschijningsvormen van energie, de wisselwerking tussen materie onderling en met energie alsook de gevolgen ervan."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-stem ;
+    schema:name "energie en materie (interacties)"@nl .
+
+domain:s-geld-en-consumptie a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in consumptiegedrag, inkomensverwerving en financiële producten om budgettaire gevolgen op korte en lange termijn in te schatten."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-economisch-financiele-competenties,
+        domain:c-juridische-competenties ;
+    schema:name "geld en budget"@nl .
+
+domain:s-gezonde-levensstijl a schema:DefinedTermSet ;
+    schema:description "Een gezonde levensstijl opbouwen, onderhouden en versterken."@nl ;
+    schema:isPartOf domain:c-lichamelijk-geestelijk-en-emotioneel-welzijn ;
+    schema:name "gezonde levensstijl"@nl .
+
+domain:s-historische-beeldvorming a schema:DefinedTermSet ;
+    schema:description "Tot beargumenteerde historische beeldvorming komen vanuit verschillende perspectieven."@nl ;
+    schema:isPartOf domain:c-historisch-bewustzijn ;
+    schema:name "historische beeldvorming"@nl .
+
+domain:s-historische-dynamieken a schema:DefinedTermSet ;
+    schema:description "Over de complexe relatie tussen verleden, heden en toekomst reflecteren en deze duiden."@nl ;
+    schema:isPartOf domain:c-historisch-bewustzijn ;
+    schema:name "verleden en heden"@nl .
+
+domain:s-historische-tijdlijn a schema:DefinedTermSet ;
+    schema:description "Historische fenomenen situeren in een historisch referentiekader."@nl ;
+    schema:isPartOf domain:c-historisch-bewustzijn ;
+    schema:name "historisch referentiekader"@nl .
+
+domain:s-identiteit a schema:DefinedTermSet ;
+    schema:description "De dynamiek en de gelaagdheid van (eigen) identiteiten duiden."@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven ;
+    schema:name "identiteit"@nl .
+
+domain:s-informatie-verwerven a schema:DefinedTermSet ;
+    schema:description "Geschikte (leer-)activiteiten, strategieën en tools inzetten om informatie digitaal en niet-digitaal kritisch te verwerven, beheren en verwerken rekening houdend met het beoogde leerresultaat en –proces."@nl ;
+    schema:isPartOf domain:c-leercompetenties ;
+    schema:name "informatie verwerven en verwerken"@nl .
+
+domain:s-keuzes-maken a schema:DefinedTermSet ;
+    schema:description "(Duurzame) keuzes maken, rekening houdend met gevolgen op korte en lange termijn."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-ondernemingszin ;
+    schema:name "keuzes maken"@nl .
+
+domain:s-kunstbeleving-en-waardering a schema:DefinedTermSet ;
+    schema:description "Uitingen van kunst en cultuur beleven en de waardering ervoor duiden."@nl ;
+    schema:isPartOf domain:c-cultureel-bewustzijn-en-culturele-expressie,
+        domain:c-zelfbewustzijn ;
+    schema:name "cultuur beleven en waarderen"@nl .
+
+domain:s-kunstconcepten a schema:DefinedTermSet ;
+    schema:description "Uitingen van kunst en cultuur waarnemen en conceptualiseren."@nl ;
+    schema:isPartOf domain:c-cultureel-bewustzijn-en-culturele-expressie ;
+    schema:name "cultuur waarnemen en conceptualiseren"@nl .
+
+domain:s-kunstcreatie a schema:DefinedTermSet ;
+    schema:description "Verbeelding gericht inzetten bij het creëren van artistiek werk."@nl ;
+    schema:isPartOf domain:c-cultureel-bewustzijn-en-culturele-expressie,
+        domain:c-zelfbewustzijn ;
+    schema:name "artistiek werk creëren"@nl .
+
+domain:s-kunstgeschiedenis-en-kunststromingen a schema:DefinedTermSet ;
+    schema:description "Uitingen van kunst en cultuur duiden in relatie tot de maatschappelijke,  historische en geografische context waarin ze zich manifesteren."@nl ;
+    schema:isPartOf domain:c-cultureel-bewustzijn-en-culturele-expressie ;
+    schema:name "cultuur contextualiseren"@nl .
+
+domain:s-landschap-en-plaats a schema:DefinedTermSet ;
+    schema:description "Plaatsbegrip hanteren om lokale, nationale en internationale gebeurtenissen in een geografisch kader te plaatsen."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-ruimtelijk-bewustzijn ;
+    schema:name "plaatsbegrip"@nl .
+
+domain:s-leren-leren a schema:DefinedTermSet ;
+    schema:description "Zichzelf als lerende begrijpen en positioneren ten aanzien van leren in het algemeen en van specifieke leerdomeinen."@nl ;
+    schema:isPartOf domain:c-leercompetenties,
+        domain:c-zelfbewustzijn ;
+    schema:name "reflecteren over leren"@nl .
+
+domain:s-literatuur a schema:DefinedTermSet ;
+    schema:description "Literatuur in het Nederlands beleven."@nl ;
+    schema:isPartOf domain:c-nederlands ;
+    schema:name "literatuur (Nederlands)"@nl .
+
+domain:s-maatschappijkritisch-denken a schema:DefinedTermSet ;
+    schema:description "De wederzijdse invloed tussen maatschappelijke domeinen en ontwikkelingen en de impact ervan op de (globale) samenleving en het individu kritisch benaderen."@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven,
+        domain:c-duurzaamheid ;
+    schema:name "duurzaamheid en systeemdenken"@nl .
+
+domain:s-mediawijsheid a schema:DefinedTermSet ;
+    schema:description "Verantwoord, kritisch en ethisch omgaan met digitale en niet-digitale media en informatie."@nl ;
+    schema:isPartOf domain:c-digitale-competenties-en-mediawijsheid ;
+    schema:name "mediawijsheid"@nl .
+
+domain:s-mens-en-leefomgeving a schema:DefinedTermSet ;
+    schema:description "Ruimtelijke patronen en processen aan het aardoppervlak verklaren als het resultaat van interacties tussen natuurlijke processen onderling, tussen menselijke processen onderling en tussen natuurlijke en menselijke processen."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-juridische-competenties,
+        domain:c-ruimtelijk-bewustzijn ;
+    schema:name "mens en aarde (interacties)"@nl .
+
+domain:s-mentaal-welbevinden a schema:DefinedTermSet ;
+    schema:description "Het mentaal welbevinden opbouwen, onderhouden en versterken."@nl ;
+    schema:isPartOf domain:c-lichamelijk-geestelijk-en-emotioneel-welzijn,
+        domain:c-zelfbewustzijn ;
+    schema:name "mentaal welbevinden"@nl .
+
+domain:s-ondernemen-en-organisatie a schema:DefinedTermSet ;
+    schema:description "De werking van ondernemingen en organisaties en hun maatschappelijke rol duiden."@nl ;
+    schema:isPartOf domain:c-economisch-financiele-competenties ;
+    schema:name "onderneming en organisatie"@nl .
+
+domain:s-onderzoeken a schema:DefinedTermSet ;
+    schema:description "Een (onderzoeks-)probleem (v)erkennen en een antwoord of oplossing zoeken gebruikmakend van geschikte (leer-)activiteiten, strategieën en tools."@nl ;
+    schema:isPartOf domain:c-leercompetenties ;
+    schema:name "onderzoeken en probleemoplossen"@nl .
+
+domain:s-opportuniteiten-verkennen a schema:DefinedTermSet ;
+    schema:description "Opportuniteiten zien en verkennen met behulp van een creatief denkproces."@nl ;
+    schema:isPartOf domain:c-ondernemingszin ;
+    schema:name "opportuniteiten verkennen"@nl .
+
+domain:s-participatie a schema:DefinedTermSet ;
+    schema:description "Actief participeren aan de samenleving, rekening houdend met de rechten en plichten van iedereen binnen de rechtsstaat."@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven,
+        domain:c-juridische-competenties ;
+    schema:name "participatie"@nl .
+
+domain:s-politiek a schema:DefinedTermSet ;
+    schema:description "Democratische besluitvorming op lokaal, nationaal en internationaal niveau duiden"@nl ;
+    schema:isPartOf domain:c-burgerschap-en-samenleven ;
+    schema:name "democratische besluitvorming"@nl .
+
+domain:s-reguleren a schema:DefinedTermSet ;
+    schema:description "Leeropvattingen, -proces en -resultaten reguleren."@nl ;
+    schema:isPartOf domain:c-leercompetenties,
+        domain:c-zelfbewustzijn ;
+    schema:name "reguleren van het leren"@nl .
+
+domain:s-relaties a schema:DefinedTermSet ;
+    schema:description "Interpersoonlijke relaties opbouwen, onderhouden en versterken."@nl ;
+    schema:isPartOf domain:c-sociaal-relationele-vorming,
+        domain:c-zelfbewustzijn ;
+    schema:name "relaties"@nl .
+
+domain:s-ruimte-en-tijd a schema:DefinedTermSet ;
+    schema:description "Personen, plaatsen, patronen en processen situeren op verschillende ruimtelijke schaalniveaus en tijdsschalen."@nl ;
+    schema:isPartOf domain:c-ruimtelijk-bewustzijn ;
+    schema:name "situeren in ruimte en tijd"@nl .
+
+domain:s-ruimtelijk-onderzoek a schema:DefinedTermSet ;
+    schema:description "Geografische methoden en technieken aanwenden om ruimtelijke patronen en processen te onderzoeken."@nl ;
+    schema:isPartOf domain:c-ruimtelijk-bewustzijn ;
+    schema:name "geografische methoden en technieken"@nl .
+
+domain:s-samenwerken a schema:DefinedTermSet ;
+    schema:description "Samen het leerproces vormgeven."@nl ;
+    schema:isPartOf domain:c-leercompetenties,
+        domain:c-zelfbewustzijn ;
+    schema:name "samenleren"@nl .
+
+domain:s-sport-en-beweging a schema:DefinedTermSet ;
+    schema:description "Een fysiek actieve levensstijl opbouwen, onderhouden en versterken"@nl ;
+    schema:isPartOf domain:c-lichamelijk-geestelijk-en-emotioneel-welzijn ;
+    schema:name "sport en beweging"@nl .
+
+domain:s-stem-onderzoek a schema:DefinedTermSet ;
+    schema:description "Natuurwetenschappelijke, technologische en wiskundige concepten en methoden inzetten om problemen op te lossen en om objecten, systemen en hun interacties te onderzoeken en te begrijpen."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-stem ;
+    schema:name "multi- en interdisciplinaire STEM-vaardigheden"@nl .
+
+domain:s-taal-en-cultuur a schema:DefinedTermSet ;
+    schema:description "Inzicht hebben in taal, in het bijzonder het Nederlands, als exponent en deel van een cultuur en een maatschappij."@nl ;
+    schema:isPartOf domain:c-nederlands ;
+    schema:name "taal en cultuur (Nederlands)"@nl .
+
+domain:s-taalsysteem a schema:DefinedTermSet ;
+    schema:description "Kenmerken en principes van het Nederlands begrijpen om ze in te zetten bij het communiceren."@nl ;
+    schema:isPartOf domain:c-nederlands ;
+    schema:name "taalsysteem (Nederlands)"@nl .
+
+domain:s-technologie-en-technieken a schema:DefinedTermSet ;
+    schema:description "Technische systemen ontwerpen, realiseren, in gebruik nemen en evalueren rekening houdend met fundamentele maatschappelijke, wetenschappelijke en technologische aspecten."@nl ;
+    schema:isPartOf domain:c-duurzaamheid,
+        domain:c-stem ;
+    schema:name "technologie en technieken"@nl .
+
+domain:s-technologisch-inzicht a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in technische systemen en processen en hun relatie tot verschillende technologische domeinen en tot andere domeinen (wetenschappen, wiskunde …)."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "technologisch inzicht"@nl .
+
+domain:s-uitvoeringsanalyse a schema:DefinedTermSet ;
+    schema:description "De uitvoerbaarheid van ideeën onderzoeken, het inzetten van middelen tegenover doelstellingen afwegen en het gekozen idee realiseren."@nl ;
+    schema:isPartOf domain:c-ondernemingszin ;
+    schema:name "uitvoeringsanalyse"@nl .
+
+domain:s-vaktaal a schema:DefinedTermSet ;
+    schema:description "Domeinspecifieke terminologie, symbolen en voorstellingen hanteren."@nl ;
+    schema:isPartOf domain:c-leercompetenties ;
+    schema:name "vaktaal"@nl .
+
+domain:s-veiligheid a schema:DefinedTermSet ;
+    schema:description "Een veilige levensstijl realiseren door het correct inschatten van risicofactoren"@nl ;
+    schema:isPartOf domain:c-lichamelijk-geestelijk-en-emotioneel-welzijn ;
+    schema:name "veilige levensstijl"@nl .
+
+domain:s-wiskunde-algebra-analyse a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in en omgaan met relatie en verandering: zoals algebra, analyse en discrete structuren."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "algebra, analyse en discrete structuren"@nl .
+
+domain:s-wiskunde-getallenleer a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in en omgaan met getallen en hoeveelheden: getallenleer."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "getallenleer"@nl .
+
+domain:s-wiskunde-kansrekenen-statistiek a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in en omgaan met data en onzekerheid: zoals kansrekenen en statistiek."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "kansrekenen, statistiek"@nl .
+
+domain:s-wiskunde-meetkunde-en-metend-rekenen a schema:DefinedTermSet ;
+    schema:description "Inzicht ontwikkelen in en omgaan met ruimte en vorm: meetkunde en metend rekenen."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "meetkunde en metend rekenen"@nl .
+
+domain:s-wiskunde-modelleren-en-heuristiek a schema:DefinedTermSet ;
+    schema:description "Modelleren en problemen oplossen door analyseren, (de)mathematiseren of aanwenden van heuristieken."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "modelleren en problemen oplossen"@nl .
+
+domain:s-wiskunde-redeneren a schema:DefinedTermSet ;
+    schema:description "Redeneringen opbouwen en abstraheren rekening houdend met de samenhang en structuur van wiskunde."@nl ;
+    schema:isPartOf domain:c-stem ;
+    schema:name "redeneren en abstraheren"@nl .
+
+domain:c-sociaal-relationele-vorming a schema:DefinedTermSet ;
+    schema:description "5. Sociaal-relationele competenties"@nl ;
+    schema:name "sociaal-relationele competenties"@nl .
+
+domain:c-digitale-competenties-en-mediawijsheid a schema:DefinedTermSet ;
+    schema:description "4. Digitale competentie en mediawijsheid"@nl ;
+    schema:name "digitale competenties"@nl .
+
+domain:c-economisch-financiele-competenties a schema:DefinedTermSet ;
+    schema:description "11. Economische en financiële competenties"@nl ;
+    schema:name "economische en financiële competenties"@nl .
+
+domain:c-ondernemingszin a schema:DefinedTermSet ;
+    schema:description "15. Ontwikkeling van initiatief, ambitie, ondernemingszin en loopbaancompetenties"@nl ;
+    schema:name "ondernemingszin"@nl .
+
+domain:c-andere-talen a schema:DefinedTermSet ;
+    schema:description "3. Competenties in andere talen"@nl ;
+    schema:name "andere talen"@nl .
+
+domain:c-cultureel-bewustzijn-en-culturele-expressie a schema:DefinedTermSet ;
+    schema:description "16. Cultureel bewustzijn en culturele expressie"@nl ;
+    schema:name "cultureel bewustzijn"@nl .
+
+domain:c-historisch-bewustzijn a schema:DefinedTermSet ;
+    schema:description "8. Competenties met betrekking tot historisch bewustzijn"@nl ;
+    schema:name "historisch bewustzijn"@nl .
+
+domain:c-lichamelijk-geestelijk-en-emotioneel-welzijn a schema:DefinedTermSet ;
+    schema:description "1. Competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/gezondheid"@nl ;
+    schema:name "lichamelijke en geestelijke gezondheid"@nl .
+
+domain:c-nederlands a schema:DefinedTermSet ;
+    schema:description "2. Competenties in het Nederlands"@nl ;
+    schema:name "Nederlands"@nl .
+
+domain:c-ruimtelijk-bewustzijn a schema:DefinedTermSet ;
+    schema:description "9. Competenties met betrekking tot ruimtelijk bewustzijn"@nl ;
+    schema:name "ruimtelijk bewustzijn"@nl .
+
+domain:c-juridische-competenties a schema:DefinedTermSet ;
+    schema:description "12. Juridische competenties"@nl ;
+    schema:name "juridische competenties"@nl .
+
+domain:c-leercompetenties a schema:DefinedTermSet ;
+    schema:description "13. Leercompetenties met inbegrip van onderzoekscompetenties, innovatiedenken, creativiteit, probleemoplossend en kritisch denken, systeemdenken, informatieverwerking en samenwerken"@nl ;
+    schema:name "leercompetenties"@nl .
+
+domain:c-burgerschap-en-samenleven a schema:DefinedTermSet ;
+    schema:description "7. Burgerschapscompetenties met inbegrip van competenties inzake samenleven"@nl ;
+    schema:name "burgerschap"@nl .
+
+domain:c-zelfbewustzijn a schema:DefinedTermSet ;
+    schema:description "14. Zelfbewustzijn en zelfexpressie, zelfsturing en wendbaarheid"@nl ;
+    schema:name "zelfbewustzijn"@nl .
+
+domain:c-duurzaamheid a schema:DefinedTermSet ;
+    schema:description "10. Competenties inzake duurzaamheid"@nl ;
+    schema:name "duurzaamheid"@nl .
+
+domain:c-stem a schema:DefinedTermSet ;
+    schema:description "6. Competenties inzake wiskunde, exacte wetenschappen en technologie"@nl ;
+    schema:name "wiskunde - natuurwetenschappen - technologie - STEM"@nl .
+
+

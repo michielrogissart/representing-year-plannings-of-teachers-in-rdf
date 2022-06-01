@@ -1,0 +1,468 @@
+@prefix lesson: <http://myontology.com/lessen/> .
+@prefix myont: <http://myontology.com/myont/> .
+@prefix schema: <https://schema.org/> .
+@prefix series: <http://myontology.com/lesseries/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+lesson:Test-year-plan-series1-lesson1 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson1" ;
+    schema:position 1 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson1" .
+
+lesson:Test-year-plan-series1-lesson10 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson10" ;
+    schema:position 10 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson10" .
+
+lesson:Test-year-plan-series1-lesson11 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson11" ;
+    schema:position 11 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson11" .
+
+lesson:Test-year-plan-series1-lesson2 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson2" ;
+    schema:position 2 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson2" .
+
+lesson:Test-year-plan-series1-lesson3 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson3" ;
+    schema:position 3 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson3" .
+
+lesson:Test-year-plan-series1-lesson4 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson4" ;
+    schema:position 4 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson4" .
+
+lesson:Test-year-plan-series1-lesson5 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson5" ;
+    schema:position 5 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson5" .
+
+lesson:Test-year-plan-series1-lesson6 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson6" ;
+    schema:position 6 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson6" .
+
+lesson:Test-year-plan-series1-lesson7 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson7" ;
+    schema:position 7 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson7" .
+
+lesson:Test-year-plan-series1-lesson8 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson8" ;
+    schema:position 8 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson8" .
+
+lesson:Test-year-plan-series1-lesson9 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series1 ;
+    schema:name "Test-year-plan-series1-lesson9" ;
+    schema:position 9 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series1-lesson9" .
+
+lesson:Test-year-plan-series2-lesson1 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson1" ;
+    schema:position 1 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson1" .
+
+lesson:Test-year-plan-series2-lesson2 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson2" ;
+    schema:position 2 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson2" .
+
+lesson:Test-year-plan-series2-lesson3 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson3" ;
+    schema:position 3 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson3" .
+
+lesson:Test-year-plan-series2-lesson4 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson4" ;
+    schema:position 4 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson4" .
+
+lesson:Test-year-plan-series2-lesson5 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson5" ;
+    schema:position 5 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson5" .
+
+lesson:Test-year-plan-series2-lesson6 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson6" ;
+    schema:position 6 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson6" .
+
+lesson:Test-year-plan-series2-lesson7 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson7" ;
+    schema:position 7 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson7" .
+
+lesson:Test-year-plan-series2-lesson8 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson8" ;
+    schema:position 8 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson8" .
+
+lesson:Test-year-plan-series2-lesson9 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series2 ;
+    schema:name "Test-year-plan-series2-lesson9" ;
+    schema:position 9 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series2-lesson9" .
+
+lesson:Test-year-plan-series3-lesson1 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson1" ;
+    schema:position 1 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson1" .
+
+lesson:Test-year-plan-series3-lesson10 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson10" ;
+    schema:position 10 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson10" .
+
+lesson:Test-year-plan-series3-lesson11 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson11" ;
+    schema:position 11 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson11" .
+
+lesson:Test-year-plan-series3-lesson12 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson12" ;
+    schema:position 12 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson12" .
+
+lesson:Test-year-plan-series3-lesson13 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson13" ;
+    schema:position 13 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson13" .
+
+lesson:Test-year-plan-series3-lesson14 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson14" ;
+    schema:position 14 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson14" .
+
+lesson:Test-year-plan-series3-lesson15 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson15" ;
+    schema:position 15 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson15" .
+
+lesson:Test-year-plan-series3-lesson2 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson2" ;
+    schema:position 2 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson2" .
+
+lesson:Test-year-plan-series3-lesson3 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson3" ;
+    schema:position 3 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson3" .
+
+lesson:Test-year-plan-series3-lesson4 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson4" ;
+    schema:position 4 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson4" .
+
+lesson:Test-year-plan-series3-lesson5 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson5" ;
+    schema:position 5 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson5" .
+
+lesson:Test-year-plan-series3-lesson6 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson6" ;
+    schema:position 6 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson6" .
+
+lesson:Test-year-plan-series3-lesson7 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson7" ;
+    schema:position 7 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson7" .
+
+lesson:Test-year-plan-series3-lesson8 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson8" ;
+    schema:position 8 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson8" .
+
+lesson:Test-year-plan-series3-lesson9 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series3 ;
+    schema:name "Test-year-plan-series3-lesson9" ;
+    schema:position 9 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series3-lesson9" .
+
+lesson:Test-year-plan-series4-lesson1 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson1" ;
+    schema:position 1 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson1" .
+
+lesson:Test-year-plan-series4-lesson10 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson10" ;
+    schema:position 10 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson10" .
+
+lesson:Test-year-plan-series4-lesson11 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson11" ;
+    schema:position 11 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson11" .
+
+lesson:Test-year-plan-series4-lesson12 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson12" ;
+    schema:position 12 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson12" .
+
+lesson:Test-year-plan-series4-lesson13 a myont:Lesson ;
+    myont:semanticalDensity "hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson13" ;
+    schema:position 13 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson13" .
+
+lesson:Test-year-plan-series4-lesson2 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson2" ;
+    schema:position 2 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson2" .
+
+lesson:Test-year-plan-series4-lesson3 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson3" ;
+    schema:position 3 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson3" .
+
+lesson:Test-year-plan-series4-lesson4 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson4" ;
+    schema:position 4 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson4" .
+
+lesson:Test-year-plan-series4-lesson5 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson5" ;
+    schema:position 5 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson5" .
+
+lesson:Test-year-plan-series4-lesson6 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson6" ;
+    schema:position 6 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson6" .
+
+lesson:Test-year-plan-series4-lesson7 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson7" ;
+    schema:position 7 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson7" .
+
+lesson:Test-year-plan-series4-lesson8 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson8" ;
+    schema:position 8 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson8" .
+
+lesson:Test-year-plan-series4-lesson9 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series4 ;
+    schema:name "Test-year-plan-series4-lesson9" ;
+    schema:position 9 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series4-lesson9" .
+
+lesson:Test-year-plan-series5-lesson1 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson1" ;
+    schema:position 1 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson1" .
+
+lesson:Test-year-plan-series5-lesson2 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson2" ;
+    schema:position 2 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson2" .
+
+lesson:Test-year-plan-series5-lesson3 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson3" ;
+    schema:position 3 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson3" .
+
+lesson:Test-year-plan-series5-lesson4 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson4" ;
+    schema:position 4 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson4" .
+
+lesson:Test-year-plan-series5-lesson5 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson5" ;
+    schema:position 5 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson5" .
+
+lesson:Test-year-plan-series5-lesson6 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson6" ;
+    schema:position 6 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson6" .
+
+lesson:Test-year-plan-series5-lesson7 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson7" ;
+    schema:position 7 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson7" .
+
+lesson:Test-year-plan-series5-lesson8 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series5 ;
+    schema:name "Test-year-plan-series5-lesson8" ;
+    schema:position 8 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series5-lesson8" .
+
+lesson:Test-year-plan-series6-lesson1 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson1" ;
+    schema:position 1 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson1" .
+
+lesson:Test-year-plan-series6-lesson10 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson10" ;
+    schema:position 10 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson10" .
+
+lesson:Test-year-plan-series6-lesson2 a myont:Lesson ;
+    myont:semanticalDensity "laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson2" ;
+    schema:position 2 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson2" .
+
+lesson:Test-year-plan-series6-lesson3 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson3" ;
+    schema:position 3 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson3" .
+
+lesson:Test-year-plan-series6-lesson4 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson4" ;
+    schema:position 4 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson4" .
+
+lesson:Test-year-plan-series6-lesson5 a myont:Lesson ;
+    myont:semanticalDensity "Erg laag"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson5" ;
+    schema:position 5 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson5" .
+
+lesson:Test-year-plan-series6-lesson6 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson6" ;
+    schema:position 6 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson6" .
+
+lesson:Test-year-plan-series6-lesson7 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson7" ;
+    schema:position 7 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson7" .
+
+lesson:Test-year-plan-series6-lesson8 a myont:Lesson ;
+    myont:semanticalDensity "gemiddeld"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson8" ;
+    schema:position 8 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson8" .
+
+lesson:Test-year-plan-series6-lesson9 a myont:Lesson ;
+    myont:semanticalDensity "Erg hoog"@nl ;
+    schema:isPartOf series:Test-year-plan-series6 ;
+    schema:name "Test-year-plan-series6-lesson9" ;
+    schema:position 9 ;
+    schema:url "http://myontology.com/lessen/Test-year-plan-series6-lesson9" .
+

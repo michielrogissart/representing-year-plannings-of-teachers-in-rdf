@@ -1,0 +1,20 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix exercisetype: <http://myontology.com/oefeningtypes/> .
+
+exercisetype:exercisetypes rdf:type schema:DefinedTermSet .
+
+exercisetype:OpenQuestion rdf:type schema:DefinedTerm;
+    schema:inDefinedTermSet exercisetype:exercisetypes .
+
+exercisetype:FillInQuestion rdf:type schema:DefinedTerm;
+    schema:inDefinedTermSet exercisetype:exercisetypes .
+
+exercisetype:YesNoQuestion rdf:type schema:DefinedTerm;
+    schema:inDefinedTermSet exercisetype:exercisetypes .
+
+exercisetype:MCQuestion rdf:type schema:DefinedTerm;
+    schema:inDefinedTermSet exercisetype:exercisetypes .
+
+exercisetype:Series rdf:type schema:DefinedTerm;
+    schema:inDefinedTermSet exercisetype:exercisetypes .

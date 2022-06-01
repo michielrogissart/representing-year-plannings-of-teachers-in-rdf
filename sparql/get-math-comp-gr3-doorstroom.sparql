@@ -1,0 +1,13 @@
+PREFIX cred: <http://myontology.com/cred/>
+PREFIX schema: <https://schema.org/>
+PREFIX domain: <http://ilearn.ilabt.imec.be/vocab/curr1/>
+
+SELECT DISTINCT ?comp WHERE {
+    cred:sec-gr3-doorstroom schema:competencyRequired ?comp .
+    {
+        ?comp schema:inDefinedTermSet domain:c-stem .
+    } UNION {
+        ?comp schema:inDefinedTermSet ?subdomain .
+        ?subdomain schema:isPartof domain:c-stem .
+    }
+}
